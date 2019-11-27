@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>643269908561-cldh9q7jgmquknkv4icdrid91ghjl77v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.643269908561-cldh9q7jgmquknkv4icdrid91ghjl77v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCzBrsrqsZUgl4aJNLDv0WvaLTCO1hj4oA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>643269908561</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.CredSocialApp</string>
+	<key>PROJECT_ID</key>
+	<string>react-sample-251010</string>
+	<key>STORAGE_BUCKET</key>
+	<string>react-sample-251010.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:643269908561:ios:c42823ad9d785a43f80070</string>
+	<key>DATABASE_URL</key>
+	<string>https://react-sample-251010.firebaseio.com</string>
+</dict>
+</plist>

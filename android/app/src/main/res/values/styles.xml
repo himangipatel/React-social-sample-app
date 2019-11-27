@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="DefaultExplainingPermissionsTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Used for the buttons -->
+        <item name="colorAccent">#ED5155</item>
+
+        <!-- Used for the title and text -->
+        <item name="android:textColorPrimary">#54C79f</item>
+
+        <!-- Used for the background -->
+        <item name="android:background">#ffffff</item>
+    </style>
+
+</resources>
